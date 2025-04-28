@@ -1,0 +1,21 @@
+{
+  "name": "ngx-cerberus-token-sync",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/core": ">=9.0.0",
+    "rxjs": "^6.0.0 || ^7.0.0"
+  },
+  "main": "bundles/ngx-cerberus-token-sync.umd.js",
+  "module": "fesm5/ngx-cerberus-token-sync.js",
+  "es2015": "fesm2015/ngx-cerberus-token-sync.js",
+  "esm5": "esm5/ngx-cerberus-token-sync.js",
+  "esm2015": "esm2015/ngx-cerberus-token-sync.js",
+  "fesm5": "fesm5/ngx-cerberus-token-sync.js",
+  "fesm2015": "fesm2015/ngx-cerberus-token-sync.js",
+  "typings": "ngx-cerberus-token-sync.d.ts",
+  "metadata": "ngx-cerberus-token-sync.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}

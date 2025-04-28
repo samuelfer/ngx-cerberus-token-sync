@@ -1,0 +1,19 @@
+{
+  "name": "ngx-cerberus-token-sync",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "ng-packagr -p ng-package.json"
+  },
+  "peerDependencies": {
+    "@angular/core": ">=9.0.0",
+    "rxjs": "^6.0.0 || ^7.0.0"
+  },
+  "devDependencies": {
+    "@angular/compiler": "^9.1.0",
+    "@angular/compiler-cli": "^9.1.0",
+    "@angular/core": "^9.1.0",
+    "@types/node": "12.12.4",
+    "ng-packagr": "^9.1.5",
+    "typescript": "3.8.3"
+  }
+}
